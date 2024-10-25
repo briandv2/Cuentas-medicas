@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\MillionTest\\Application\\Application.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\MillionTest\\Application\\Application.csproj": {
+    "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\MillionTest\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\MillionTest\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\MillionTest\\Application\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\MillionTest\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\MillionTest\\Core\\Core.csproj"
+              "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Core\\Core.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\MillionTest\\Core\\Core.csproj": {
+    "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\MillionTest\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\MillionTest\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\MillionTest\\Core\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

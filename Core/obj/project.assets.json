@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\MillionTest\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\MillionTest\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\MillionTest\\Core\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\CuentasMedicas\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
